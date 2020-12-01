@@ -1,4 +1,3 @@
-
 def report_repair(input_file):
 	file = open(input_file, "r")
 	loop = []
